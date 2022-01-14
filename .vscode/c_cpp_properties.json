@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/SoftWare/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/**",
+                "D:/SoftWare/mingw64/x86_64-w64-mingw32/include/**"
+            ],
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "D:/SoftWare/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/**",
+                    "D:/SoftWare/mingw64/x86_64-w64-mingw32/include/**"
+                ]
+            },
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.18362.0",
+            "compilerPath": "D:/SoftWare/mingw64/bin/g++.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++11"
+            //"intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}
