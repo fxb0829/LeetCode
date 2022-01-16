@@ -3,7 +3,7 @@
  * @Author: fengxb
  * @Date: 2022-01-14 22:48:09
  * @LastEditor: fengxb
- * @LastEditTime: 2022-01-14 23:05:03
+ * @LastEditTime: 2022-01-16 16:08:28
  */
 /*
  * @lc app=leetcode.cn id=27 lang=cpp
@@ -27,7 +27,7 @@ public:
             }
             fast++;
         }
-        return slow;
+        return slow; 
     }
 };
 // @lc code=end
