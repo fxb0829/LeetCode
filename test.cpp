@@ -18,5 +18,6 @@ int main(){
     vector<int> arr = {-1,1,2,2,3,5};
     int firstLoc = upper_bound(arr.begin(),arr.end(),2)-arr.begin();
     cout << firstLoc << endl;
+    
     return 0;
 }
