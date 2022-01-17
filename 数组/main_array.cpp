@@ -16,6 +16,8 @@ int main(){
 
     //vector数组
     vector<int> arr = {-1,1,2,2,3,5};
+    map<int,string> map;
+
     int firstLoc = upper_bound(arr.begin(),arr.end(),2)-arr.begin();
     cout << firstLoc << endl;
     return 0;
