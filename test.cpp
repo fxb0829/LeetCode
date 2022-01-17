@@ -19,6 +19,5 @@ int main(){
     int firstLoc = upper_bound(arr.begin(),arr.end(),2)-arr.begin();
     cout << firstLoc << endl;
     
-    
     return 0;
 }
