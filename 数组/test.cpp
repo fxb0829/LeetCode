@@ -3,7 +3,7 @@
  * @Author: fengxb
  * @Date: 2022-01-18 17:28:05
  * @LastEditor: fengxb
- * @LastEditTime: 2022-01-18 22:36:52
+ * @LastEditTime: 2022-01-18 22:52:42
  */
 
 #include <iostream>
@@ -37,7 +37,7 @@ int main(){
     Solution solution;
     vector<int> nums = {-1,3,5,9,2,6,8};
     int index = solution.search(nums,9);
-    cout << index << endl;
+    cout << "你好"<< index << endl;
     
     return 0;
 }
