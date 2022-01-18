@@ -3,7 +3,7 @@
  * @Author: fengxb
  * @Date: 2022-01-18 17:28:05
  * @LastEditor: fengxb
- * @LastEditTime: 2022-01-18 22:52:42
+ * @LastEditTime: 2022-01-18 23:33:07
  */
 
 #include <iostream>
@@ -36,7 +36,7 @@ int main(){
     Solution solution;
     vector<int> nums = {-1,3,5,9,2,6,8};
     int index = solution.search(nums,9);
-    cout << "ä½ å¥½"<< index << endl;
+    cout << "ÄãºÃ"<< index << endl;
     
     return 0;
 }
