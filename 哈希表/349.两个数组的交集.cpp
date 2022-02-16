@@ -10,7 +10,7 @@
 
 // @lc code=start
 class Solution {
-public:
+public: 
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
 		unordered_set<int> result_set;
         unordered_set<int> contrast_set(nums1.begin(),nums1.end());
@@ -24,3 +24,4 @@ public:
 };
 // @lc code=end
 
+8
