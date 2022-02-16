@@ -37,6 +37,5 @@ int main(){
     vector<int> nums = {-1,3,5,9,2,6,8};
     int index = solution.search(nums,9);
     cout << "hello"<< index << endl;
-    
     return 0;
 }
